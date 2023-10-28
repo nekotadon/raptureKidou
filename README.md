@@ -40,7 +40,7 @@ rapture.exeと同じフォルダに`raptureを起動するだけ.exe`を入れ�
 ## 動作確認環境
 Microsoft Windows10 x64
 
-## ライセンス等
+## ライセンス
 
 This software is released under the MIT License.   
 詳細については、[LICENSE](./LICENSE) ファイルを参照してください。
